@@ -14,3 +14,4 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 
 ![image](https://github.com/DFS14/Faculdade-Flamingo---Projeto-O-Hospital-Fundamental/assets/114403677/9f4f056d-81b8-4eec-a623-aec4e11d6a72)
+![Captura de tela 2023-10-28 165606](https://github.com/DFS14/Faculdade-Flamingo---Projeto-O-Hospital-Fundamental/assets/114403677/d4df96d9-6b58-4787-ad10-7569d21cbd6d)
